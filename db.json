@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "janez.novak@gmail.com",
+	  "role": "admin"
+    },
+	{
+      "id": 2,
+      "username": "sara.novak@gmail.com",
+	  "role": "user"
+    },
+	{
+      "id": 3,
+      "username": "nina.novak@gmail.com",
+	  "role": "user"
+    },
+	{
+      "id": 4,
+      "username": "teja.novak@gmail.com",
+	  "role": "user"
+    },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
